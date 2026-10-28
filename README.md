@@ -1,8 +1,5 @@
-# SWYNEX-Git-Workflow-and-Project-Baseline
-SWYNEX-internship-git-workflow-project
-
-
 # SWYNEX Git Workflow and Project Baseline
+SWYNEX-internship-git-workflow-project
 
 ## Overview
 This project demonstrates a basic Git workflow and a simple
