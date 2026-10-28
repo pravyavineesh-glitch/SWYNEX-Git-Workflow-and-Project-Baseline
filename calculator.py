@@ -29,7 +29,7 @@ while True:
         if(num2 > 0):
             arobj.division()
         else:
-            print("Divison by 0 error")
+            print("Error: Division by zero is not allowed.")
     else:
         print("Invalid Option ")
         
